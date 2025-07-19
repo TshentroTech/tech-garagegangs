@@ -54,17 +54,7 @@ A comprehensive and secure gang vehicle management system for QBCore Framework w
 
 ### Installation Steps
 
-1. **Download the Resource**
-   ```bash
-   git clone https://github.com/your-repo/qb-gangs.git
-   ```
-
-2. **Place in Resources Folder**
-   ```bash
-   cp -r qb-gangs /path/to/your/server/resources/
-   ```
-
-3. **Add to server.cfg**
+ **Add to server.cfg**
    ```cfg
    ensure qb-gangs
    ```
