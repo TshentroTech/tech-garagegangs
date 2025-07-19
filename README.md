@@ -292,19 +292,5 @@ Check server console for detailed error messages and vehicle usage logs.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- QBCore Framework team
-- Community contributors
-- Testers and feedback providers
-
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Join our Discord server
-- Check the documentation
-
----
 
 **Made with ❤️ for the FiveM community** 
