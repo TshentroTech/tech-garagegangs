@@ -1,4 +1,4 @@
-# 🚗 QB-Gangs Vehicle System
+# 🚗 tech-garagegangs Vehicle System
 
 A comprehensive and secure gang vehicle management system for QBCore Framework with advanced features including gang-specific vehicle restrictions, speed limits, and passenger-friendly access control.
 
@@ -56,7 +56,7 @@ A comprehensive and secure gang vehicle management system for QBCore Framework w
 
  **Add to server.cfg**
    ```cfg
-   ensure qb-gangs
+   ensure tech-garagegangs
    ```
 
 4. **Configure Gangs**
@@ -66,7 +66,7 @@ A comprehensive and secure gang vehicle management system for QBCore Framework w
 
 5. **Restart Server**
    ```bash
-   restart qb-gangs
+   restart tech-garagegangs
    ```
 
 ## ⚙️ Configuration
